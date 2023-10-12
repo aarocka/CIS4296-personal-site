@@ -50,3 +50,7 @@ body {
     background-color: var(--bs-primary);
     color: white;
 }
+
+body{
+    background-color: rgb(195, 193, 193);
+}
