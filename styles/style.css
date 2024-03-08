@@ -1,10 +1,6 @@
 html,
 body {
-<<<<<<< HEAD
-    font-family: 'Times New Roman', serif;
-=======
-    font-family: 'Comic Sans Ms', sans-serif;
->>>>>>> 21b23f5e5adb4c9fca0906fd18593449494acb0a
+    font-family: 'Merriweather Sans', sans-serif;
 }
 
 .section {
@@ -54,11 +50,3 @@ body {
     background-color: var(--bs-primary);
     color: white;
 }
-
-body{
-    background-color: rgb(190, 190, 190);
-}
-
-.carousel-item img {
-    max-height: 400px;
-  }
